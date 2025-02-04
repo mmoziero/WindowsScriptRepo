@@ -1,1 +1,1 @@
-# KursPython30
+Windows Scripts
